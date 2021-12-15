@@ -1,5 +1,5 @@
 # Target Language Extraction and the Multilingual Cocktail Party
-This repository comprises two main sections. Section one introduces the novel target language extraction (TLE) task and provides the data lists as well as scripts to reproduce our experiments. Section two describes the multilingual cocktail party situation and provides the information as well as scripts to simulate the new GlobalPhoneMCP-GE corpus. You can find more detailed information in our paper (please see the bottom part of this page). This repository is under an Apache 2.0 license but comprises different sources with different licenses. Please check the license section for more details.
+This repository comprises two main sections. Section one introduces the novel target language extraction (TLE) task and provides the data lists as well as scripts to reproduce our experiments. Section two describes the multilingual cocktail party situation and provides the information as well as scripts to simulate the new GlobalPhoneMCP-GE corpus. You can find more detailed information in our paper (please see the bottom part of this page). This repository is under an Apache 2.0 license but comprises different parts and sources with different licenses. Please check the license section for more details.
 
 ---
 **Note:**  
