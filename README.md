@@ -53,7 +53,7 @@ The general speaker and utterance split into training (tr), cross-validation (cv
 
 
 ### About GlobalPhoneMCP-GE
-In our work, we consider German as fixed target language while the interfering language varies between the remaining 21 languages under 1T-1I and 2T-2I conditions. We apply the aforementioned design concept and create the GlobalPhone Multilingual Cocktail Party - German (GlobalPhoneMCP-GE) corpus. To the best of our knowledge, this represents the first of its kind multilingual cocktail party database for speech separation. We utilize each German utterance four times to have a meaningful corpus size.
+In our work, we consider German as fixed target language while the interfering language varies between the remaining 21 languages under 1T-1I and 2T-2I conditions. We apply the aforementioned design concept and create the GlobalPhone Multilingual Cocktail Party - German (GlobalPhoneMCP-GE) corpus. To the best of our knowledge, this represents the first of its kind multilingual cocktail party database for speech separation. We utilize each German utterance four times when mixing German with an interfering language to have a meaningful corpus size.
 
 
 ### Data Simulation
@@ -63,14 +63,17 @@ To simulate the actual data, we adapt the scripts which have been released to cr
 ## Our Paper
 If you enjoyed working with the Target Language Extraction approach, the GlobalPhoneMCP design concept, or the GlobalPhoneMCP-GE corpus, please cite us:
 ```
-@inproceedings{,
-author={{Marvin Borsdorf and Haizhou Li and Tanja Schultz},
-title={{Target Language Extraction At Multilingual Cocktail Parties}},
-year=2021,
-booktitle={ASRU 2021 (accepted)},
-pages={},
-doi={}}
+@INPROCEEDINGS{9688052,
+  author={Borsdorf, Marvin and Li, Haizhou and Schultz, Tanja},
+  booktitle={2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
+  title={Target Language Extraction at Multilingual Cocktail Parties},
+  year={2021},
+  volume={},
+  number={},
+  pages={717-724},
+  doi={10.1109/ASRU51503.2021.9688052}}
 ```
+
 
 
 ## References
