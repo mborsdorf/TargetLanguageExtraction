@@ -63,7 +63,7 @@ To simulate the actual data, we adapt the scripts which have been released to cr
 ## Our Paper
 If you enjoyed working with the Target Language Extraction approach, the GlobalPhoneMCP design concept, or the GlobalPhoneMCP-GE corpus, please cite us:
 ```
-@INPROCEEDINGS{9688052,
+@INPROCEEDINGS{Borsdorf2021ASRU,
   author={Borsdorf, Marvin and Li, Haizhou and Schultz, Tanja},
   booktitle={2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
   title={Target Language Extraction at Multilingual Cocktail Parties},
